@@ -1,0 +1,8 @@
+#ifndef RESOURCE_RC_INCLUDED
+#define RESOURCE_RC_INCLUDED
+
+#include "resource.h"
+
+MY_ICON ICON "Sbluh.ico"
+
+#endif
