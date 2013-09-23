@@ -1,0 +1,253 @@
+# depslib dependency file v1.0
+1372875415 source:c:\sbluh\sbluh-source\aspect.cpp
+	<iostream>
+	"sbluh.h"
+	<algorithm>
+
+1372875415 c:\sbluh\sbluh-source\sbluh.h
+	<string>
+
+1372875415 source:c:\sbluh\sbluh-source\aspectcalculate.cpp
+	<iostream>
+	"sbluh.h"
+	<algorithm>
+
+1372875415 source:c:\sbluh\sbluh-source\blood.cpp
+	<iostream>
+	"sbluh.h"
+	<algorithm>
+
+1372875415 source:c:\sbluh\sbluh-source\bloodcalc.cpp
+	<iostream>
+	"sbluh.h"
+	<algorithm>
+
+1372875415 source:c:\sbluh\sbluh-source\bloodnumber.cpp
+	<iostream>
+	"sbluh.h"
+	<algorithm>
+
+1372875415 source:c:\sbluh\sbluh-source\checkinput.cpp
+	"sbluh.h"
+	<locale>
+	<iostream>
+	<sstream>
+
+1372875415 source:c:\sbluh\sbluh-source\classaspectlist.cpp
+	<iostream>
+	"sbluh.h"
+
+1372875415 source:c:\sbluh\sbluh-source\console.cpp
+	<iostream>
+	"sbluh.h"
+
+1372875415 source:c:\sbluh\sbluh-source\convert.cpp
+	"sbluh.h"
+
+1372875415 source:c:\sbluh\sbluh-source\help.cpp
+	<iostream>
+	"sbluh.h"
+
+1372875415 source:c:\sbluh\sbluh-source\init.cpp
+	<iostream>
+	"sbluh.h"
+	<Windows.h>
+
+1372875415 source:c:\sbluh\sbluh-source\input.cpp
+	<iostream>
+	"sbluh.h"
+
+1372875415 source:c:\sbluh\sbluh-source\logon.cpp
+	<iostream>
+	"sbluh.h"
+
+1372875415 source:c:\sbluh\sbluh-source\requestsweepcalc.cpp
+	<iostream>
+	"sbluh.h"
+
+1372875415 source:c:\sbluh\sbluh-source\return.cpp
+	<iostream>
+	"sbluh.h"
+
+1372875415 source:c:\sbluh\sbluh-source\sweeps.cpp
+	<iostream>
+	"sbluh.h"
+
+1372879870 source:c:\sbluh\sbluh-source\sbluhmain.cpp
+	"sbluh.h"
+
+1372880810 source:c:\sbluh\sbluh-source\update.cpp
+	"sbluh.h"
+	<iostream>
+	"Shlwapi.h"
+
+1372881675 source:c:\sbluh\sbluh-source\resource.rc
+
+1372883654 source:c:\users\curiouslyexistential\documents\visual studio 2012\projects\sbluh\sbluh\aspect.cpp
+	<iostream>
+	"sbluh.h"
+	<algorithm>
+
+1372875416 c:\users\curiouslyexistential\documents\visual studio 2012\projects\sbluh\sbluh\sbluh.h
+	<string>
+
+1372875416 source:c:\users\curiouslyexistential\documents\visual studio 2012\projects\sbluh\sbluh\aspectcalculate.cpp
+	<iostream>
+	"sbluh.h"
+	<algorithm>
+
+1372875416 source:c:\users\curiouslyexistential\documents\visual studio 2012\projects\sbluh\sbluh\blood.cpp
+	<iostream>
+	"sbluh.h"
+	<algorithm>
+
+1372875416 source:c:\users\curiouslyexistential\documents\visual studio 2012\projects\sbluh\sbluh\bloodcalc.cpp
+	<iostream>
+	"sbluh.h"
+	<algorithm>
+
+1372875416 source:c:\users\curiouslyexistential\documents\visual studio 2012\projects\sbluh\sbluh\bloodnumber.cpp
+	<iostream>
+	"sbluh.h"
+	<algorithm>
+
+1372883654 source:c:\users\curiouslyexistential\documents\visual studio 2012\projects\sbluh\sbluh\checkinput.cpp
+	"sbluh.h"
+	<locale>
+	<iostream>
+	<sstream>
+
+1372875416 source:c:\users\curiouslyexistential\documents\visual studio 2012\projects\sbluh\sbluh\classaspectlist.cpp
+	<iostream>
+	"sbluh.h"
+
+1379605972 source:c:\users\curiouslyexistential\documents\visual studio 2012\projects\sbluh\sbluh\console.cpp
+	<iostream>
+	"sbluh.h"
+
+1372875416 source:c:\users\curiouslyexistential\documents\visual studio 2012\projects\sbluh\sbluh\convert.cpp
+	"sbluh.h"
+
+1379605968 source:c:\users\curiouslyexistential\documents\visual studio 2012\projects\sbluh\sbluh\help.cpp
+	<iostream>
+	"sbluh.h"
+
+1379606023 source:c:\users\curiouslyexistential\documents\visual studio 2012\projects\sbluh\sbluh\init.cpp
+	<iostream>
+	"sbluh.h"
+	<Windows.h>
+
+1372875416 source:c:\users\curiouslyexistential\documents\visual studio 2012\projects\sbluh\sbluh\input.cpp
+	<iostream>
+	"sbluh.h"
+
+1372875416 source:c:\users\curiouslyexistential\documents\visual studio 2012\projects\sbluh\sbluh\logon.cpp
+	<iostream>
+	"sbluh.h"
+
+1372875416 source:c:\users\curiouslyexistential\documents\visual studio 2012\projects\sbluh\sbluh\requestsweepcalc.cpp
+	<iostream>
+	"sbluh.h"
+
+1372881676 source:c:\users\curiouslyexistential\documents\visual studio 2012\projects\sbluh\sbluh\resource.rc
+
+1372875416 source:c:\users\curiouslyexistential\documents\visual studio 2012\projects\sbluh\sbluh\return.cpp
+	<iostream>
+	"sbluh.h"
+
+1372879872 source:c:\users\curiouslyexistential\documents\visual studio 2012\projects\sbluh\sbluh\sbluhmain.cpp
+	"sbluh.h"
+
+1372875416 source:c:\users\curiouslyexistential\documents\visual studio 2012\projects\sbluh\sbluh\sweeps.cpp
+	<iostream>
+	"sbluh.h"
+
+1379552935 source:c:\users\curiouslyexistential\documents\visual studio 2012\projects\sbluh\sbluh\update.cpp
+	"sbluh.h"
+	<iostream>
+	"Shlwapi.h"
+
+1372883654 source:c:\sbluh-gcc\sbluh\sbluh\aspect.cpp
+	<iostream>
+	"sbluh.h"
+	<algorithm>
+
+1372875416 c:\sbluh-gcc\sbluh\sbluh\sbluh.h
+	<string>
+
+1372875416 source:c:\sbluh-gcc\sbluh\sbluh\aspectcalculate.cpp
+	<iostream>
+	"sbluh.h"
+	<algorithm>
+
+1372875416 source:c:\sbluh-gcc\sbluh\sbluh\blood.cpp
+	<iostream>
+	"sbluh.h"
+	<algorithm>
+
+1372875416 source:c:\sbluh-gcc\sbluh\sbluh\bloodcalc.cpp
+	<iostream>
+	"sbluh.h"
+	<algorithm>
+
+1372875416 source:c:\sbluh-gcc\sbluh\sbluh\bloodnumber.cpp
+	<iostream>
+	"sbluh.h"
+	<algorithm>
+
+1372883654 source:c:\sbluh-gcc\sbluh\sbluh\checkinput.cpp
+	"sbluh.h"
+	<locale>
+	<iostream>
+	<sstream>
+
+1372875416 source:c:\sbluh-gcc\sbluh\sbluh\classaspectlist.cpp
+	<iostream>
+	"sbluh.h"
+
+1379605972 source:c:\sbluh-gcc\sbluh\sbluh\console.cpp
+	<iostream>
+	"sbluh.h"
+
+1372875416 source:c:\sbluh-gcc\sbluh\sbluh\convert.cpp
+	"sbluh.h"
+
+1379605968 source:c:\sbluh-gcc\sbluh\sbluh\help.cpp
+	<iostream>
+	"sbluh.h"
+
+1379606023 source:c:\sbluh-gcc\sbluh\sbluh\init.cpp
+	<iostream>
+	"sbluh.h"
+	<Windows.h>
+
+1372875416 source:c:\sbluh-gcc\sbluh\sbluh\input.cpp
+	<iostream>
+	"sbluh.h"
+
+1372875416 source:c:\sbluh-gcc\sbluh\sbluh\logon.cpp
+	<iostream>
+	"sbluh.h"
+
+1372875416 source:c:\sbluh-gcc\sbluh\sbluh\requestsweepcalc.cpp
+	<iostream>
+	"sbluh.h"
+
+1372881676 source:c:\sbluh-gcc\sbluh\sbluh\resource.rc
+
+1372875416 source:c:\sbluh-gcc\sbluh\sbluh\return.cpp
+	<iostream>
+	"sbluh.h"
+
+1379695201 source:c:\sbluh-gcc\sbluh\sbluh\sbluhmain.cpp
+	"sbluh.h"
+
+1372875416 source:c:\sbluh-gcc\sbluh\sbluh\sweeps.cpp
+	<iostream>
+	"sbluh.h"
+
+1379552935 source:c:\sbluh-gcc\sbluh\sbluh\update.cpp
+	"sbluh.h"
+	<iostream>
+	"Shlwapi.h"
+
