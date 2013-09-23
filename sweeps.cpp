@@ -1,3 +1,13 @@
+/*
+    sweeps.cpp
+    Sets up variables for the actual calculations, and which mode it should run in.
+
+    This file is part of Sbluh.
+
+    Copyright (C) 2013  Dorion Beaudin.
+    Refer to COPYING.txt for liscense information.
+*/
+
 #include <iostream>
 #include "sbluh.h"
 
@@ -26,13 +36,6 @@ start:
         cout << endl << endl;
         goto start;
     }
-
-    //Keeps the program from immediately closing. No longer required now that the program loops.
-
-    //cin.clear();
-    //cin.ignore(255, '\n');
-    //cin.get();
-
     std::cout << std::endl;
 }
 

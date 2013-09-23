@@ -1,3 +1,14 @@
+/*
+    console.cpp
+    The thing that makes it all work. A simple console that allows users to enter commands,
+    and thus navigate the program.
+
+    This file is part of Sbluh.
+
+    Copyright (C) 2013  Dorion Beaudin.
+    Refer to COPYING.txt for liscense information.
+*/
+
 #include <iostream>
 #include "sbluh.h"
 
@@ -40,17 +51,21 @@ void console()
         {
             sweepCalc();
         }
+        else if(stuff == "help:playerData")
+        {
+            std::cout << "Allows the user to alter their previously entered user information stored in the save file." << std::endl << std::endl;
+        }
         else if(stuff == "playerData")
         {
             playerData();
         }
+        else if(stuff == "help:displayPlayerData")
+        {
+            std::cout << "Prints current user's information, loaded previously from a save." << std::endl << std::endl;
+        }
         else if(stuff == "displayPlayerData")
         {
             displayPlayerData();
-        }
-        else if(stuff == "help:logon")
-        {
-            std::cout << "Debug logon prompt.";
         }
         else if(stuff == "")
         {

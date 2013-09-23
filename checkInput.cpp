@@ -1,3 +1,13 @@
+/*
+    checkInput.cpp
+    This function makes sure that what the user enters is valid for later use.
+
+    This file is part of Sbluh.
+
+    Copyright (C) 2013  Dorion Beaudin.
+    Refer to COPYING.txt for liscense information.
+*/
+
 #include "sbluh.h"
 #include <locale>
 #include <iostream>

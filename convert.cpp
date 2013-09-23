@@ -1,3 +1,13 @@
+/*
+    convert.cpp
+    Converts years to Alternian solar sweeps, and vice versa
+
+    This program is part of Sbluh.
+
+    Copyright (C) 2013  Dorion Beaudin.
+    Refer to COPYING.txt for liscense information.
+*/
+
 #include "sbluh.h"
 
 double conv(double x, bool sweeps)

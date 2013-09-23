@@ -1,3 +1,13 @@
+/*
+    sbluh.h
+    So many functions.
+
+    This file is part of Sbluh.
+
+    Copyright (C) 2013  Dorion Beaudin.
+    Refer to COPYING.txt for liscense information.
+*/
+
 #ifndef SBLUH_H
 #define SBLUH_H
 
@@ -6,7 +16,6 @@ void sweepCalc();
 double conv(double x, bool sweeps);
 void aspectMain(bool initialization);
 void help();
-void logon();
 void init();
 void update();
 void bloodMain(bool initialization);

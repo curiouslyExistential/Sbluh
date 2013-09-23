@@ -1,3 +1,15 @@
+/*
+    aspectCalculate.cpp
+    Makes sure the user is typing using valid characters, and extracts the first and last
+    letter of the first and last name for later use in determining a Class or Aspect.
+
+    This file is part of Sbluh.
+
+    Copyright (C) 2013  Dorion Beaudin.
+    Refer to COPYING.txt for liscense information.
+*/
+
+
 #include <iostream>
 #include "sbluh.h"
 #include <algorithm>

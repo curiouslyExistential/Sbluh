@@ -1,3 +1,8 @@
+/*
+    Copyright (C) 2013  Dorion Beaudin.
+    Refer to COPYING.txt for liscense information.
+*/
+
 #ifndef RESOURCE_RC_INCLUDED
 #define RESOURCE_RC_INCLUDED
 

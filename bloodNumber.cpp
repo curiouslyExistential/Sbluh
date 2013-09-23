@@ -1,3 +1,13 @@
+/*
+    bloodNumber.cpp
+    Assigns a numetical value to a sign.
+
+    This file is part of Sbluh.
+
+    Copyright (C) 2013  Dorion Beaudin.
+    Refer to COPYING.txt for liscense information.
+*/
+
 #include <iostream>
 #include "sbluh.h"
 #include <algorithm>

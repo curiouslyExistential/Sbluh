@@ -1,3 +1,15 @@
+/*
+    update.cpp
+    Check for program updates.
+
+    This file is part of Sbluh.
+
+    Copyright (C) 2013  Dorion Beaudin.
+    Refer to COPYING.txt for liscense information.
+
+    wyUpdate Copyright (C) 2013 wyDay
+*/
+
 #include "sbluh.h"
 #include <iostream>
 #include "Shlwapi.h"

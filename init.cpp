@@ -1,3 +1,14 @@
+/*
+    init.cpp
+    Does most of the heavy lifting in terms of setting the user up, and creating all the variables,
+    as well as reading from the save file and checking if it even exists yet.
+
+    This file is part of Sbluh.
+
+    Copyright (C) 2013  Dorion Beaudin.
+    Refer to COPYING.txt for liscense information.
+*/
+
 #include <iostream>
 #include "sbluh.h"
 #include "base64.h"
@@ -34,6 +45,7 @@ bool fexists(const char *filename)
  void cls()
  {
     system("cls");
+    //I know. It's terrible to use this. Really bad. But I can't figure out how else to do it.
  }
 
 using namespace rude;

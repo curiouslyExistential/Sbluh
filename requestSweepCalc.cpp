@@ -1,3 +1,13 @@
+/*
+    requestSweepCalc.cpp
+    Makes sure that the user is in fact sending a 1 or a 0, switches sweeps.cpp behavior as neccesary.
+
+    This file is part of Sbluh.
+
+    Copyright (C) 2013  Dorion Beaudin.
+    Refer to COPYING.txt for liscense information.
+*/
+
 #include <iostream>
 #include "sbluh.h"
 

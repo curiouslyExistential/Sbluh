@@ -1,3 +1,14 @@
+/*
+    blood.cpp
+    Takes a user's sun and moon astrological signs, and prints out the potential blood colour
+    the user would have if they were a troll.
+
+    This file is part of Sbluh.
+
+    Copyright (C) 2013  Dorion Beaudin.
+    Refer to COPYING.txt for liscense information.
+*/
+
 #include <iostream>
 #include "sbluh.h"
 #include <algorithm>
