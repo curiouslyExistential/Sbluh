@@ -5,7 +5,7 @@
     This file is part of Sbluh.
 
     Copyright (C) 2013  Dorion Beaudin.
-    Refer to COPYING.txt for liscense information.
+    Refer to COPYING.md for license information.
 */
 
 #include <iostream>

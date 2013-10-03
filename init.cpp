@@ -6,7 +6,7 @@
     This file is part of Sbluh.
 
     Copyright (C) 2013  Dorion Beaudin.
-    Refer to COPYING.txt for liscense information.
+    Refer to COPYING.md for license information.
 */
 
 #include <iostream>
@@ -20,7 +20,7 @@
 #include <stdlib.h>
 
 
-std::string VersionNumber = "0.1.0";
+std::string VersionNumber = "0.1.1";
 std::string Handle = "Null";
 int playerClass = 0;
 int playerAspect = 0;
@@ -91,12 +91,13 @@ void init()
     }
     else
     {
-        std::cout << "Welcome, " << Handle << "." << std::endl << std::endl;
-
-        std::cout << "Blood: " << playerBlood << std::endl;
-        std::cout << "Class: " << sbluhClass(playerClass) << std::endl;
-        std::cout << "Aspect: " << sbluhAspect(playerAspect) << std::endl;
-        std::cout << "Client UUID: " << ClientUUID64 << std::endl << std::endl;
+        using namespace std;
+        cout << "Welcome, " << Handle << "." << endl << endl;
+        cout << "===PLAYER PROFILE===" << endl << endl;
+        cout << "Class: " << sbluhClass(playerClass) << endl;
+        cout << "Aspect: " << sbluhAspect(playerAspect) << endl;
+        cout << "Blood: " << playerBlood << endl << endl;
+        cout << "Client UUID: " << ClientUUID64 << endl << endl;
     }
     console();
 }
