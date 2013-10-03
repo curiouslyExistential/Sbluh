@@ -251,3 +251,280 @@
 	<iostream>
 	"Shlwapi.h"
 
+1380826586 source:e:\cb\projects\sbluh\aspect.cpp
+	<iostream>
+	"sbluh.h"
+	<algorithm>
+
+1380547536 e:\cb\projects\sbluh\sbluh.h
+	<string>
+
+1380825930 source:e:\cb\projects\sbluh\aspectcalculate.cpp
+	<iostream>
+	"sbluh.h"
+	<algorithm>
+
+1380547536 source:e:\cb\projects\sbluh\blood.cpp
+	<iostream>
+	"sbluh.h"
+	<algorithm>
+
+1380547536 source:e:\cb\projects\sbluh\bloodcalc.cpp
+	<iostream>
+	"sbluh.h"
+	<algorithm>
+
+1380547536 source:e:\cb\projects\sbluh\bloodnumber.cpp
+	<iostream>
+	"sbluh.h"
+	<algorithm>
+
+1380825930 source:e:\cb\projects\sbluh\checkinput.cpp
+	"sbluh.h"
+	<locale>
+	<iostream>
+	<sstream>
+
+1380821142 source:e:\cb\projects\sbluh\classaspectlist.cpp
+	<iostream>
+	"sbluh.h"
+
+1380547536 source:e:\cb\projects\sbluh\console.cpp
+	<iostream>
+	"sbluh.h"
+
+1380547536 source:e:\cb\projects\sbluh\convert.cpp
+	"sbluh.h"
+
+1380547536 source:e:\cb\projects\sbluh\help.cpp
+	<iostream>
+	"sbluh.h"
+
+1380824334 source:e:\cb\projects\sbluh\init.cpp
+	<iostream>
+	"sbluh.h"
+	"base64.h"
+	"globalVars.h"
+	<Windows.h>
+	"rude/config.h"
+	<string>
+	<fstream>
+	<stdlib.h>
+
+1379720542 e:\cb\projects\sbluh\base64.h
+	<string>
+
+1379722010 e:\cb\projects\sbluh\globalvars.h
+
+1379724072 e:\cb\projects\sbluh\rude\config.h
+
+1380547536 source:e:\cb\projects\sbluh\input.cpp
+	<iostream>
+	"sbluh.h"
+
+1379717988 source:e:\cb\projects\sbluh\logon.cpp
+	<iostream>
+	"sbluh.h"
+
+1380547536 source:e:\cb\projects\sbluh\requestsweepcalc.cpp
+	<iostream>
+	"sbluh.h"
+
+1379974312 source:e:\cb\projects\sbluh\resource.rc
+	"resource.h"
+
+1379719326 e:\cb\projects\sbluh\resource.h
+
+1380824502 source:e:\cb\projects\sbluh\sbluhmain.cpp
+	"sbluh.h"
+
+1380547536 source:e:\cb\projects\sbluh\sweeps.cpp
+	<iostream>
+	"sbluh.h"
+
+1380547536 source:e:\cb\projects\sbluh\update.cpp
+	"sbluh.h"
+	<iostream>
+	"Shlwapi.h"
+
+1379721406 source:e:\cb\projects\sbluh\base64.cpp
+	"base64.h"
+	"sbluh.h"
+	<iostream>
+
+1379975910 source:e:\cb\projects\sbluh\displayplayerdata.cpp
+	"sbluh.h"
+	<iostream>
+
+1379975910 source:e:\cb\projects\sbluh\playerdata.cpp
+	<iostream>
+	"sbluh.h"
+	"base64.h"
+	"globalVars.h"
+	<Windows.h>
+	"rude/config.h"
+	<string>
+	<sstream>
+
+1379717214 source:e:\cb\projects\sbluh\return.cpp
+
+1379724072 source:e:\cb\projects\sbluh\rude\abstractdata.cpp
+	"AbstractData.h"
+
+1379724072 e:\cb\projects\sbluh\rude\abstractdata.h
+
+1379724072 source:e:\cb\projects\sbluh\rude\abstractorganiser.cpp
+	"AbstractOrganiser.h"
+
+1379724072 e:\cb\projects\sbluh\rude\abstractorganiser.h
+
+1379724072 source:e:\cb\projects\sbluh\rude\abstractparser.cpp
+	"AbstractParser.h"
+
+1379724072 e:\cb\projects\sbluh\rude\abstractparser.h
+	<iostream>
+	<string>
+
+1379724072 source:e:\cb\projects\sbluh\rude\abstractwriter.cpp
+	"AbstractWriter.h"
+	<iostream>
+
+1379724070 e:\cb\projects\sbluh\rude\abstractwriter.h
+	<string>
+
+1379724070 source:e:\cb\projects\sbluh\rude\base64encoder.cpp
+	"Base64Encoder.h"
+	<string.h>
+
+1379724072 e:\cb\projects\sbluh\rude\base64encoder.h
+
+1379724072 source:e:\cb\projects\sbluh\rude\comment.cpp
+	"Comment.h"
+	"AbstractWriter.h"
+	<cstdio>
+
+1379724072 e:\cb\projects\sbluh\rude\comment.h
+	"DataLine.h"
+	<string>
+
+1379724072 e:\cb\projects\sbluh\rude\dataline.h
+	"AbstractData.h"
+
+1379724072 source:e:\cb\projects\sbluh\rude\configimpl.cpp
+	"ConfigImpl.h"
+	"Section.h"
+	"File.h"
+	"Writer.h"
+	"RealOrganiser.h"
+	"ParserJuly2004.h"
+	"Base64Encoder.h"
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<cstring>
+
+1379724072 e:\cb\projects\sbluh\rude\configimpl.h
+	<string>
+	<iostream>
+
+1379724072 e:\cb\projects\sbluh\rude\section.h
+	<string>
+	<vector>
+	<map>
+	<iostream>
+	<string>
+
+1379724072 e:\cb\projects\sbluh\rude\file.h
+	"AbstractData.h"
+	<vector>
+	<map>
+	<string>
+
+1379724072 e:\cb\projects\sbluh\rude\writer.h
+	"AbstractWriter.h"
+	<iostream>
+
+1379724072 e:\cb\projects\sbluh\rude\realorganiser.h
+	"AbstractOrganiser.h"
+	<string>
+
+1379724072 e:\cb\projects\sbluh\rude\parserjuly2004.h
+	"AbstractParser.h"
+	<iostream>
+	<string>
+
+1379724072 source:e:\cb\projects\sbluh\rude\dataline.cpp
+	"DataLine.h"
+
+1379724072 source:e:\cb\projects\sbluh\rude\file.cpp
+	"File.h"
+	"Section.h"
+	"AbstractWriter.h"
+
+1379724072 source:e:\cb\projects\sbluh\rude\keyvalue.cpp
+	"KeyValue.h"
+	"AbstractWriter.h"
+	<cstdio>
+
+1379724072 e:\cb\projects\sbluh\rude\keyvalue.h
+	"DataLine.h"
+	<string>
+	<iostream>
+
+1379724072 source:e:\cb\projects\sbluh\rude\parserjuly2004.cpp
+	"ParserJuly2004.h"
+	"AbstractOrganiser.h"
+	<cctype>
+	<iostream>
+	<cstdlib>
+	<cstdio>
+
+1379724072 source:e:\cb\projects\sbluh\rude\realorganiser.cpp
+	"RealOrganiser.h"
+	"File.h"
+	"Section.h"
+
+1379724072 source:e:\cb\projects\sbluh\rude\section.cpp
+	"Section.h"
+	"DataLine.h"
+	"KeyValue.h"
+	"WhiteSpace.h"
+	"Comment.h"
+	"AbstractWriter.h"
+
+1379724072 e:\cb\projects\sbluh\rude\whitespace.h
+	"DataLine.h"
+	<string>
+
+1379724072 source:e:\cb\projects\sbluh\rude\whitespace.cpp
+	"WhiteSpace.h"
+	"AbstractWriter.h"
+	<cstdio>
+
+1379724072 source:e:\cb\projects\sbluh\rude\writer.cpp
+	"Writer.h"
+	"File.h"
+	"Section.h"
+	"KeyValue.h"
+	"Comment.h"
+	"WhiteSpace.h"
+	<cstdlib>
+	<cctype>
+	<iostream>
+	<string>
+
+1379724072 source:e:\cb\projects\sbluh\rude\config.cpp
+	"config.h"
+	"ConfigImpl.h"
+	<iostream>
+	<string>
+
+1380826586 source:c:\users\curiouslyexistential\documents\github\sbluh\aspect.cpp
+	<iostream>
+	"sbluh.h"
+	<algorithm>
+
+1380547536 c:\users\curiouslyexistential\documents\github\sbluh\sbluh.h
+	<string>
+
